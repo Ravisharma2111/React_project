@@ -1,0 +1,19 @@
+.navbar1{
+    background-color: #202232;
+    color: #fff;
+    display: flex;
+   
+}
+.headersection1{
+    /* justify-content: space-between; */
+}
+.heading1{
+    font-size: 25px;
+    color: #fff;
+}
+ .heading2{ 
+    font-size: 24px;
+    justify-content: flex-end;
+   
+   
+}
